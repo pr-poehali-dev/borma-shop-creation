@@ -32,6 +32,15 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				borma: {
+					orange: '#FF6B35',
+					blue: '#2E86AB',
+					yellow: '#A23B72',
+					burgundy: '#A23B72',
+					red: '#C78F01',
+					gold: '#C73E1D',
+					gray: '#F5F5F5'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
